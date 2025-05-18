@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250518194705 +0800">
+<tv date="20250518222011 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7599,6 +7599,9 @@
 	<programme channel="黑莓动画" start="20250519013400 +0800" stop="20250519031400 +0800">
 		<title lang="zh">第十四个目标 中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250519031400 +0800" stop="20250519044700 +0800">
+		<title lang="zh">怪物史莱克4（4K）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -7607,6 +7610,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250519015000 +0800" stop="20250519032400 +0800">
 		<title lang="zh">第一滴血2</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250519032400 +0800" stop="20250519053500 +0800">
+		<title lang="zh">白鹿原</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
